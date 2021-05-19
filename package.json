@@ -1,0 +1,23 @@
+{
+  "name": "08-portfolio-homework8",
+  "version": "1.0.0",
+  "description": "Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenngreiner/portfolio-homework2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenngreiner/portfolio-homework2/issues"
+  },
+  "homepage": "https://github.com/jenngreiner/portfolio-homework2#readme",
+  "dependencies": {
+    "foundation-sites": "^6.6.3"
+  }
+}
