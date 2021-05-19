@@ -21,6 +21,9 @@ header {
 .link {
     color: #92a8d1;
 }
+.card-img-top {
+    height: 218px;
+}
 .card-body {
     background-color: #231520;
     /* position:absolute; */
