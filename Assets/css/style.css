@@ -6,9 +6,10 @@ body {
     color: white;
 }
 header {
-    margin-top: 10px;
+    margin: 20px;
     text-align: center;
 }
+
 .navbar {
     display: block!important;
     background-color: #EDCA97!important;
